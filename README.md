@@ -170,8 +170,8 @@ This project provided practical experience in:
 
 ## Author
 
-**Dandempalli Shiva**
+**Dandempalli Rakesh**
 
-Bachelor of Technology (Artificial Intelligence and Machine Learning)
+Bachelor of Technology (IT)
 
-GitHub: https://github.com/Dandempallishiva
+GitHub: https://github.com/Dandempalli9848
